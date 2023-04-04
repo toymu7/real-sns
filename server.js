@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 //   res.send("users express");
 // });
 
-app.listen(PORT, () => console.log("サーバーが起動しました。"));
+app.listen(PORT, () => console.log("サーバーが起動しました"));
 
 
 
